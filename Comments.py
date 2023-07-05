@@ -1,0 +1,1 @@
+### comments = Comments are the piece of code which does not gets exectued by the interpreter and we add comments to for the other coder who can understand the logic of the written code to proceed in our absesnce
